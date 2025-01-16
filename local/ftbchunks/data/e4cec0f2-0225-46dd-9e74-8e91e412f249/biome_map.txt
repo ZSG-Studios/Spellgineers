@@ -1,0 +1,11 @@
+#79D terralith:cave/andesite_caves
+#694 terralith:cave/deep_caves
+#63B terralith:cave/thermal_caves
+#735 biomesoplenty:coniferous_forest
+#6D4 biomesoplenty:field
+#005 biomesoplenty:gravel_beach
+#056 biomesoplenty:maple_woods
+#5FF minecraft:river
+#108 biomesoplenty:seasonal_forest
+#169 minecraft:taiga
+#1D0 terralith:yellowstone

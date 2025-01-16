@@ -103,9 +103,6 @@
   "apothic_enchanting": {
     "ench": true
   },
-  "functionalstorage": {
-    "drawer": true
-  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -118,6 +115,9 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -126,14 +126,18 @@
     "hud": true,
     "hud.redstone": true
   },
-  "toms_storage": {
-    "inventory_config": true,
-    "inventory_connector": true
+  "mysticalagradditions": {
+    "infused_farmland": true
   },
   "waystones": {
     "waystone": true
   },
   "corpse": {
     "corpse": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   }
 }

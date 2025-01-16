@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "aa09d8f5366341b2a0b4685519bcaa41"
+	name: "_ZSGaming_#aa09d8f5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

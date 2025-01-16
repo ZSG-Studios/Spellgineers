@@ -1,0 +1,17 @@
+[11:49:06] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[11:49:06] [INIT] Loaded plugins:
+[11:49:06] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[11:49:06] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[11:49:06] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[11:49:06] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[11:49:06] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[11:49:06] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[11:49:06] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:49:06] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[11:49:06] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[11:49:06] [INIT] - net.swedz.mi_tweaks.compat.kubejs.MITweaksKJSPlugin
+[11:49:06] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[11:49:06] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[11:49:07] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[11:49:07] [INFO] Loaded script startup_scripts:main.js in 0.059 s
+[11:49:07] [INFO] Loaded 1/1 KubeJS startup scripts in 1.095 s with 0 errors and 0 warnings

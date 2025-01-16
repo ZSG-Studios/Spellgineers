@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "MAIN (1)",
+      "createTime": 1737046800144,
+      "backupLocation": "C:\\Users\\User\\curseforge\\minecraft\\Instances\\Spellgineers-Dev\\backups\\2025-1-16_12-0-0.zip",
+      "size": 11724685,
+      "ratio": 0.5045341,
+      "sha1": "e55465f064b935784f35a847db9e11fb4a5ddddd",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

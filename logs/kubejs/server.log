@@ -1,0 +1,20 @@
+[11:49:42] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[11:49:42] [INIT] Loaded plugins:
+[11:49:42] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[11:49:42] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[11:49:42] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[11:49:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[11:49:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[11:49:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[11:49:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[11:49:42] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[11:49:42] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[11:49:42] [INIT] - net.swedz.mi_tweaks.compat.kubejs.MITweaksKJSPlugin
+[11:49:42] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[11:49:42] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[11:49:42] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[11:49:42] [INFO] Loaded script server_scripts:main.js in 0.0 s
+[11:49:42] [INFO] Loaded 1/1 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
+[11:49:42] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[11:49:42] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[11:49:50] [INFO] Server resource reload complete!
