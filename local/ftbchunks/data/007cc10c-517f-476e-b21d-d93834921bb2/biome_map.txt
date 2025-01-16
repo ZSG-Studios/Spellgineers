@@ -1,0 +1,5 @@
+#266 biomesoplenty:floodplain
+#68B biomesoplenty:rainforest
+#5F6 biomesoplenty:rocky_rainforest
+#14C biomesoplenty:spider_nest
+#30B biomesoplenty:volcanic_plains

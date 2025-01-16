@@ -1,0 +1,27 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:iron_pickaxe",
+    "item:sophisticatedstorage:crafting_upgrade",
+    "item:sophisticatedbackpacks:crafting_upgrade",
+    "item:minecraft:wooden_pickaxe",
+    "item:toms_storage:inventory_connector",
+    "item:toms_storage:adv_wireless_terminal",
+    "item:wands:netherite_wand",
+    "item:memory_of_the_past:tome_of_rebirth",
+    "item:irons_spellbooks:scroll{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:starfall\",index:0,level:3,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}",
+    "item:minecraft:diamond_helmet",
+    "item:silentgear:chestplate{\"minecraft:dyed_color\":{rgb:-2259712,show_in_tooltip:0b},\"silentgear:construction\":{broken_count:0,example:0b,parts:[{item:{components:{\"silentgear:material_list\":[{item:{count:1,id:\"silentgear:blaze_gold_ingot\"},material:\"silentgear:blaze_gold\"}]},count:1,id:\"silentgear:chestplate_plates\"},part:\"silentgear:chestplate_plates\"}],repairedCount:0},\"silentgear:model_index\":3,\"silentgear:model_key\":\"chestplate:chestplate_plates{blaze_gold},\",\"silentgear:properties\":{\"silentgear:armor\":5.0f,\"silentgear:armor_durability\":9.0f,\"silentgear:armor_toughness\":1.0f,\"silentgear:attack_damage\":2.0f,\"silentgear:attack_reach\":6.0f,\"silentgear:attack_speed\":0.1f,\"silentgear:block_reach\":0.0f,\"silentgear:charging_value\":1.2f,\"silentgear:draw_speed\":0.2f,\"silentgear:durability\":69.0f,\"silentgear:enchantment_value\":24.0f,\"silentgear:harvest_speed\":15.0f,\"silentgear:harvest_tier\":{incorrect_blocks_for_tool:\"silentgear:incorrect_for_blaze_gold_tools\",level_hint:\"2\",name:\"blaze_gold\"},\"silentgear:knockback_resistance\":0.0f,\"silentgear:magic_armor\":10.0f,\"silentgear:magic_damage\":5.0f,\"silentgear:projectile_accuracy\":0.9f,\"silentgear:projectile_speed\":1.2f,\"silentgear:ranged_damage\":1.0f,\"silentgear:rarity\":45.0f,\"silentgear:repair_efficiency\":1.0f,\"silentgear:repair_value\":0.0f,\"silentgear:traits\":[{conditions:[],level:1,trait:\"silentgear:brilliant\"},{conditions:[],level:3,trait:\"silentgear:greedy\"},{conditions:[],level:3,trait:\"silentgear:malleable\"}]}}"
+  ],
+  "craft_history": [
+    "minecraft:iron_pickaxe",
+    "minecraft:wooden_pickaxe"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

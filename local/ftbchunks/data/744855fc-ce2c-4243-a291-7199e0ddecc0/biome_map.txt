@@ -1,0 +1,8 @@
+#3D6 minecraft:cold_ocean
+#735 biomesoplenty:coniferous_forest
+#6D4 biomesoplenty:field
+#005 biomesoplenty:gravel_beach
+#1AB biomesoplenty:ominous_woods
+#482 biomesoplenty:overgrown_greens
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river

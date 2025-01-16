@@ -1,0 +1,141 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "Personal Storage"
+	group: ""
+	icon: {
+		id: "sophisticatedbackpacks:backpack"
+	}
+	id: "2B64DA0213E9FC7B"
+	images: [
+		{
+			height: 6.0d
+			image: "sophisticatedbackpacks:item/stack_upgrade_tier_2"
+			order: 1
+			rotation: 0.0d
+			width: 6.0d
+			x: -3.25d
+			y: 0.25d
+		}
+		{
+			alpha: 192
+			color: 2193095
+			height: 6.1d
+			image: "ftbquests:textures/gui/background_white.png"
+			rotation: 0.0d
+			width: 6.1d
+			x: -3.25d
+			y: 0.25d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/background.png"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.4d
+			y: -1.4d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/background.png"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.4d
+			y: 2.1d
+		}
+		{
+			alpha: 128
+			color: 0
+			height: 1.0d
+			image: "ftbquests:textures/shapes/circle/background.png"
+			order: 3
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.9d
+			y: 2.1d
+		}
+	]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["66683CAE8F6FB81E"]
+			icon_scale: 1.33d
+			id: "3936E5E6DA9964C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E9950D9CFBA6F3D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "483374A104168DBC"
+				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3936E5E6DA9964C8"]
+			icon_scale: 1.66d
+			id: "4238FB58E1103106"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4379F5255617AB2A"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "034AC71B33F9368F"
+				item: { count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4238FB58E1103106"]
+			icon_scale: 1.8d
+			id: "4D713A3F7FCFFA61"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "273280C98A63CD30"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0DA87FD2854785FC"
+				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "66683CAE8F6FB81E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "541F6D14547409AC"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3E06589ED99A16F7"
+				item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+	]
+}

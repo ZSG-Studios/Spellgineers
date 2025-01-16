@@ -1,0 +1,5 @@
+#4F9 minecraft:dark_forest
+#498 minecraft:lush_caves
+#5FF minecraft:river
+#61A terralith:sakura_grove
+#4D3 minecraft:swamp

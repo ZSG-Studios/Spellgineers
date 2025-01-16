@@ -1,0 +1,17 @@
+[00:43:59.638] [INFO]: Loading config 'startup.json'.
+[00:44:04.753] [INFO]: Loaded plugins: almostunified:neoforge, almostunified:common
+[00:44:22.938] [WARN]: Reload detected. Reconstructing runtime.
+[00:44:22.941] [INFO]: Loading config 'debug.json'.
+[00:44:22.947] [INFO]: Loading config 'placeholders.json'.
+[00:44:22.950] [INFO]: Loading config 'tags.json'.
+[00:44:22.998] [INFO]: [AutoHiding] Hiding 2/5 items for tag '#c:ores/gold' -> [deeperdarker:gloomslate_gold_ore, deeperdarker:sculk_stone_gold_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:rods/iron' -> [silentgear:iron_rod]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/emerald' -> [deeperdarker:sculk_stone_emerald_ore, deeperdarker:gloomslate_emerald_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/copper' -> [deeperdarker:sculk_stone_copper_ore, deeperdarker:gloomslate_copper_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/iron' -> [deeperdarker:gloomslate_iron_ore, deeperdarker:sculk_stone_iron_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/diamond' -> [deeperdarker:sculk_stone_diamond_ore, deeperdarker:gloomslate_diamond_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lapis' -> [deeperdarker:gloomslate_lapis_ore, deeperdarker:sculk_stone_lapis_ore]
+[00:44:22.999] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/bronze' -> [silentgear:bronze_ingot]
+[00:44:23.109] [INFO]: Loading config 'duplicates.json'.
+[00:44:23.112] [INFO]: Recipe count: 13767
+[00:44:23.675] [INFO]: Recipe count afterwards: 13733 (done in 562.4 ms)

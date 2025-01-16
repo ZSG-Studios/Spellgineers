@@ -1,0 +1,1131 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "Organized Storage"
+	group: ""
+	icon: {
+		id: "functionalstorage:compacting_drawer"
+	}
+	id: "1CFBA632673ABBFD"
+	images: [
+		{
+			height: 6.0d
+			image: "modern_industrialization:block/bronze_barrel_side"
+			order: 1
+			rotation: 0.0d
+			width: 6.0d
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			height: 6.0d
+			image: "functionalstorage:block/ender_side"
+			order: 1
+			rotation: 0.0d
+			width: 6.0d
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			alpha: 196
+			height: 7.0d
+			image: "ae2:block/fluix_block_v"
+			order: 1
+			rotation: 180.0d
+			width: 6.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			alpha: 192
+			color: 0
+			height: 1.0d
+			image: "ftbquests:textures/shapes/hexagon/background.png"
+			order: 10
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.1d
+			y: -4.9d
+		}
+		{
+			alpha: 192
+			color: 0
+			height: 1.0d
+			image: "ftbquests:textures/shapes/hexagon/background.png"
+			order: 10
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.1d
+			y: -4.9d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2057D6E00AB5D98F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2539CCFA23C5345B"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "08EC0B464091A942"
+				item: { count: 1, id: "functionalstorage:oak_1" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2057D6E00AB5D98F"]
+			id: "421BFB6EC4CBCE70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0736A7B7CF0997EC"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4C8486E669A92E3A"
+				item: { count: 1, id: "functionalstorage:oak_2" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["421BFB6EC4CBCE70"]
+			id: "2883141A1B0C210B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "095D999D198135FB"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "45BB830F69F6A242"
+				item: { count: 1, id: "functionalstorage:oak_4" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			id: "0A606F42F0BF90F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "517D57004EB38FE5"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2D1F4497EA7A2559"
+				item: { count: 1, id: "functionalstorage:framed_1" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0A606F42F0BF90F8"]
+			id: "0E4FECF292FC76CD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C93F9EEA318D88C"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "26008A940FA71931"
+				item: { count: 1, id: "functionalstorage:framed_2" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0E4FECF292FC76CD"]
+			id: "6A71020892B2563A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B0BEFC0D95DE226"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2263E95CA3C5CE78"
+				item: { count: 1, id: "functionalstorage:framed_4" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2883141A1B0C210B"]
+			id: "70CBF8196C6C38CB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73B3FBA442B4E9A9"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6EACAF362E43DF2D"
+				item: { count: 1, id: "functionalstorage:compacting_drawer" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["70CBF8196C6C38CB"]
+			id: "2DAD5DB2B2A337CA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F353FA751BFDA0A"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "21FD43A9FC5C045F"
+				item: { count: 1, id: "functionalstorage:storage_controller" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2DAD5DB2B2A337CA"]
+			id: "4B6B22E89097DCC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "759D72438DAEEC30"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "217DCF21D1F9A9F4"
+				item: { count: 1, id: "functionalstorage:controller_extension" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A71020892B2563A"]
+			id: "14B45EC8863C3E8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6250AE1938635B5D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "78AEF447DEBB75E5"
+				item: { count: 1, id: "functionalstorage:compacting_framed_drawer" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14B45EC8863C3E8D"]
+			id: "45F38117172E5B75"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7813155F783B8171"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0F4F84AC88FF8068"
+				item: { count: 1, id: "functionalstorage:framed_storage_controller" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["45F38117172E5B75"]
+			id: "423439F2D8A509D8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "162F0E31C8D1F298"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1A93E60F8D2420FE"
+				item: { count: 1, id: "functionalstorage:framed_controller_extension" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4B6B22E89097DCC0"]
+			id: "2E9D5FD13B226ECF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "479AF01D15854A49"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "5627474B1A1FC294"
+				item: { count: 1, id: "functionalstorage:simple_compacting_drawer" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["423439F2D8A509D8"]
+			id: "0CD27302EDDA0A4F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A475EB7D1E93DDB"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "133EFC99831065C6"
+				item: { count: 1, id: "functionalstorage:framed_simple_compacting_drawer" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2E9D5FD13B226ECF"]
+			id: "1D9DC11E068AADC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FAE0D66CB4CE12D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "1EF6877CCE785AE2"
+					item: { count: 1, id: "functionalstorage:fluid_1" }
+					type: "item"
+				}
+				{
+					id: "6EA485514C6B0218"
+					item: { count: 1, id: "functionalstorage:fluid_2" }
+					type: "item"
+				}
+				{
+					id: "0D791BB846DAC445"
+					item: { count: 1, id: "functionalstorage:fluid_4" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0CD27302EDDA0A4F"]
+			id: "684834616AC2B237"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62C9364CF20096E9"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0F8EAA3DEEB5F3CA"
+				item: { count: 1, id: "functionalstorage:armory_cabinet" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["60AAC4DC00906B60"]
+			id: "7780E4145E70A30F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23C61FBC9F7B86E4"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "09E7F9016EFEF767"
+				item: { count: 1, id: "functionalstorage:copper_upgrade" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7780E4145E70A30F"]
+			id: "0C00F03F6881881D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DCD3A968BF108CC"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "28C182C1E8137B9D"
+				item: { count: 1, id: "functionalstorage:gold_upgrade" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0C00F03F6881881D"]
+			id: "0CE627DA7AA5C871"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7035DE7CCABF3D96"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "66E55AB5DF0766FC"
+				item: { count: 1, id: "functionalstorage:diamond_upgrade" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0CE627DA7AA5C871"]
+			id: "37C0EC784EAE8213"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74766CE30F0B82A4"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "308B195DE0CEC0EE"
+				item: { count: 1, id: "functionalstorage:netherite_upgrade" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["37C0EC784EAE8213"]
+			id: "427B70B9D14A1A51"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CA6733CB0A8826D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "74AAE024CE79231B"
+					item: { count: 1, id: "functionalstorage:collector_upgrade" }
+					type: "item"
+				}
+				{
+					id: "64C18AADA9B037EB"
+					item: { count: 1, id: "functionalstorage:puller_upgrade" }
+					type: "item"
+				}
+				{
+					id: "2B32953557331B4C"
+					item: { count: 1, id: "functionalstorage:pusher_upgrade" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["427B70B9D14A1A51"]
+			id: "57852C27FD0C29AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "118913BB1DE09B14"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "4053C432E8429BC9"
+					item: { count: 1, id: "functionalstorage:void_upgrade" }
+					type: "item"
+				}
+				{
+					id: "48311562CA7DF51C"
+					item: { count: 1, id: "functionalstorage:redstone_upgrade" }
+					type: "item"
+				}
+				{
+					id: "561CE6F06A5CBF0C"
+					item: { count: 1, id: "functionalstorage:dripping_upgrade" }
+					type: "item"
+				}
+				{
+					id: "7C31CBFF4A57B3D7"
+					item: { count: 1, id: "functionalstorage:water_generator_upgrade" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "60AAC4DC00906B60"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C47ABC7B4ED1F08"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "22659C9DAB4A7CC5"
+					item: { count: 1, id: "functionalstorage:linking_tool" }
+					type: "item"
+				}
+				{
+					id: "4E5A6A75564EDC27"
+					item: { count: 1, id: "functionalstorage:configuration_tool" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["57852C27FD0C29AA"]
+			id: "324C59E7C61B983D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5AD25349381F2D56"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			tasks: [{
+				id: "64EA7AF50666A276"
+				item: { count: 1, id: "functionalstorage:ender_drawer" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "383683160E0C6338"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00DA3086169BA3B2"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "4E7E950AE1ADC8B8"
+				item: { count: 1, id: "modern_industrialization:iron_barrel" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["383683160E0C6338"]
+			id: "1C88C7A74B597264"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D4829CD1EA1420D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "6F309AF3C7821D94"
+				item: { count: 1, id: "modern_industrialization:bronze_barrel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1C88C7A74B597264"]
+			icon_scale: 1.2d
+			id: "0CD27D6AE4D560E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5221F76D8F886A7D"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "79C1011ABA38DE17"
+				item: { count: 1, id: "modern_industrialization:steel_barrel" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["0CD27D6AE4D560E6"]
+			icon_scale: 1.4d
+			id: "2ACA72B651D18BC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "491F02A3392394FE"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0F336B7342185663"
+				item: { count: 1, id: "modern_industrialization:aluminum_barrel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2ACA72B651D18BC8"]
+			icon_scale: 1.6d
+			id: "70DCA34057BBB714"
+			rewards: [{
+				count: 8
+				id: "0DFE058DD9317D86"
+				item: {
+					count: 1
+					id: "modern_industrialization:stainless_steel_ingot"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "69DDF30A0BF595C1"
+				item: { count: 1, id: "modern_industrialization:stainless_steel_barrel" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["70DCA34057BBB714"]
+			icon_scale: 1.8d
+			id: "0CC47A77DB819839"
+			rewards: [{
+				count: 8
+				id: "43388B9091BF7DDF"
+				item: {
+					count: 1
+					id: "modern_industrialization:titanium_ingot"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "175B8CD23ADBCACA"
+				item: { count: 1, id: "modern_industrialization:titanium_barrel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0CC47A77DB819839"]
+			icon_scale: 2.0d
+			id: "7C3D442BBE6FB605"
+			rewards: [{
+				count: 2
+				id: "6F828B8BF190199A"
+				item: {
+					count: 1
+					id: "modern_industrialization:singularity"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.0d
+			tasks: [{
+				id: "3BBC57E31081C826"
+				item: { count: 1, id: "modern_industrialization:quantum_barrel" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "411F2A60C96F1015"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6417A5BC8279D664"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "05DDE90FF0561CB7"
+				item: { count: 1, id: "modern_industrialization:iron_tank" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["411F2A60C96F1015"]
+			id: "7C9825C90A819357"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1ECF04399985DE35"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "78E9002C572B7031"
+				item: { count: 1, id: "modern_industrialization:bronze_tank" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7C9825C90A819357"]
+			icon_scale: 1.2d
+			id: "0789DB2A6435DA1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47DCEDB82026FCFB"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "150339ADF9CD38FE"
+				item: { count: 1, id: "modern_industrialization:steel_tank" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["0789DB2A6435DA1C"]
+			icon_scale: 1.4d
+			id: "2649F9A976D33CB5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12FDF73ACFE3095C"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "028F7AF2F3BCB0F9"
+				item: { count: 1, id: "modern_industrialization:aluminum_tank" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2649F9A976D33CB5"]
+			icon_scale: 1.6d
+			id: "74EC4BD0E643DB89"
+			rewards: [{
+				count: 8
+				id: "1E6D72C31CD4548C"
+				item: {
+					count: 1
+					id: "modern_industrialization:stainless_steel_ingot"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "06B7CF898608DDF6"
+				item: { count: 1, id: "modern_industrialization:stainless_steel_tank" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["74EC4BD0E643DB89"]
+			icon_scale: 1.8d
+			id: "696EB29D66D05107"
+			rewards: [{
+				count: 8
+				id: "2BB71118D2168431"
+				item: {
+					count: 1
+					id: "modern_industrialization:titanium_ingot"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "399EFE80CE732C8B"
+				item: { count: 1, id: "modern_industrialization:titanium_tank" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["696EB29D66D05107"]
+			icon_scale: 2.0d
+			id: "69BB2E200D84C70C"
+			rewards: [{
+				count: 2
+				id: "4978F5896DDE8264"
+				item: {
+					count: 1
+					id: "modern_industrialization:singularity"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "26AC606DDAFFC33D"
+				item: { count: 1, id: "modern_industrialization:quantum_tank" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			id: "2F80D8B1FAB23AE8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00678D1CA4A78B44"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "11BC5570F5C142B4"
+				item: { count: 1, id: "modern_industrialization:lv_storage_unit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2F80D8B1FAB23AE8"]
+			icon_scale: 1.2d
+			id: "579407C3CD913641"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FE0D3AB5FA032C9"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "346E113C1A7C9E57"
+				item: { count: 1, id: "modern_industrialization:mv_storage_unit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["579407C3CD913641"]
+			icon_scale: 1.4d
+			id: "7CAEEC69D50796B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14614D78D2EB3C81"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3890D0A1ED9AC13D"
+				item: { count: 1, id: "modern_industrialization:hv_storage_unit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7CAEEC69D50796B6"]
+			icon_scale: 1.6d
+			id: "608579A83086E4C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AFBD31EABA553A7"
+				table_id: 6467551270008706529L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "273CED1A7157E717"
+				item: { count: 1, id: "modern_industrialization:ev_storage_unit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["608579A83086E4C2"]
+			icon_scale: 1.8d
+			id: "09C9899D45DA1DB2"
+			rewards: [{
+				count: 16
+				id: "0D6C98B199581BCF"
+				item: {
+					count: 1
+					id: "modern_industrialization:battery_alloy_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B436FAA48CF3636"
+				item: { count: 1, id: "modern_industrialization:superconductor_storage_unit" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			id: "58593F08A13CD8FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C8BB1BCAB19193F"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2FF5F214E10E3E6A"
+				item: { count: 1, id: "ae2:item_storage_cell_1k" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["58593F08A13CD8FF"]
+			id: "7B3A22A303F6FBF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74681CAE2F68CB08"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6BF51B43D8D073DE"
+				item: { count: 1, id: "ae2:item_storage_cell_4k" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7B3A22A303F6FBF5"]
+			id: "00C351028D9F3BDF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60CFFB92DDFC7727"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5325B1A8D33403AD"
+				item: { count: 1, id: "ae2:item_storage_cell_16k" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["00C351028D9F3BDF"]
+			id: "791654CAFB883F73"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AD31B5E5C7469BA"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "631C48E7E2A25054"
+				item: { count: 1, id: "ae2:item_storage_cell_64k" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["791654CAFB883F73"]
+			id: "1B43ACBCBC2AB768"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41973873331FF275"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53C9C8C6AF27704B"
+				item: { count: 1, id: "ae2:item_storage_cell_256k" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "1BFDC8E7CFCCCEE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1689278CF136A042"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F4A31AAFDBE65B8"
+				item: { count: 1, id: "ae2:fluid_storage_cell_1k" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1BFDC8E7CFCCCEE6"]
+			id: "22E648EB2B38FE38"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "611D2CEEA857F273"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6D8ACFEED117E7FF"
+				item: { count: 1, id: "ae2:fluid_storage_cell_4k" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			id: "72FC3B4B7786C30B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CFB42C2A9EACC6E"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "127D1EF7E3B94DA4"
+				item: { count: 1, id: "ae2:spatial_storage_cell_2" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["22E648EB2B38FE38"]
+			id: "133F6B01769E7A99"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08151E20F6684F4B"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "76D0E1E9E01181BC"
+				item: { count: 1, id: "ae2:fluid_storage_cell_16k" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["133F6B01769E7A99"]
+			id: "22F24862D776A0FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03A0790711294C96"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4198108B2D025D64"
+				item: { count: 1, id: "ae2:fluid_storage_cell_64k" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["22F24862D776A0FD"]
+			id: "32D187E830E9B84B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "124552AC19BB00D2"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "71E949F3C9936042"
+				item: { count: 1, id: "ae2:fluid_storage_cell_256k" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72FC3B4B7786C30B"]
+			id: "7471B06360A3DA48"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "760A30BBBDF17772"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "127EAB6BD0904D65"
+				item: { count: 1, id: "ae2:spatial_storage_cell_16" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7471B06360A3DA48"]
+			id: "6EA2317F1737CDF8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D88A32647840B91"
+				table_id: 3188555497912671082L
+				type: "random"
+			}]
+			tasks: [{
+				id: "213AB0AFA15B3C6B"
+				item: { count: 1, id: "ae2:spatial_storage_cell_128" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+	]
+}

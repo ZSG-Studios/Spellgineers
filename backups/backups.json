@@ -1,0 +1,30 @@
+{
+  "backups": [
+    {
+      "worldName": "New World",
+      "createTime": 1736980200102,
+      "backupLocation": "C:\\Users\\User\\curseforge\\minecraft\\Instances\\MAIN\\backups\\2025-1-15_17-30-0.zip",
+      "size": 13843463,
+      "ratio": 0.55713964,
+      "sha1": "84f513ce17203b3390ceb74ebfc85336437c395f",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "MAIN",
+      "createTime": 1737005400124,
+      "backupLocation": "C:\\Users\\User\\curseforge\\minecraft\\Instances\\Spellgineers-Dev\\backups\\2025-1-16_0-30-0.zip",
+      "size": 232637,
+      "ratio": 0.24791448,
+      "sha1": "a3892660e5e99dd99c076a076c6a6f977a601957",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

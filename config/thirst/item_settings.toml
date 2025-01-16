@@ -1,0 +1,108 @@
+
+[Drinks]
+	#Defines items that will recover thirst when drunk
+	#Format: [["item-id-1", hydration-amount, quenching-amount], ["item-id-2", hydration-amount, quenching-amount], ...etc]
+	drinks = [["minecraft:potion", 6, 8], 
+	
+	["pamhc2foodcore:creamitem", 6, 4], ["pamhc2foodcore:hotchocolateitem", 10, 12], ["pamhc2foodcore:applejuiceitem", 8, 13], ["pamhc2foodcore:applesmoothieitem", 8, 6], ["pamhc2foodcore:melonjuiceitem", 8, 13], 
+	["pamhc2foodcore:melonsmoothieitem", 8, 6], ["pamhc2foodcore:sweetberryjuiceitem", 8, 13], ["pamhc2foodcore:sweetberrysmoothieitem", 8, 6], ["pamhc2foodcore:glowberryjuiceitem", 8, 13], 
+	["pamhc2foodcore:glowberrysmoothieitem", 8, 6], ["pamhc2foodcore:freshmilkitem", 4, 6], ["pamhc2foodcore:freshwateritem", 4, 6], ["pamhc2foodcore:fruitpunchitem", 8, 13], ["pamhc2foodcore:p8juiceitem", 8, 13],
+
+	["pamhc2foodextended:soymilkitem", 6, 8], ["pamhc2foodextended:cherrysodaitem", 8, 10], ["pamhc2foodextended:colasodaitem", 8, 10], ["pamhc2foodextended:energydrinkitem", 6, 6], ["pamhc2foodextended:gingersodaitem", 8, 10], 
+	["pamhc2foodextended:grapefruitsodaitem", 8, 10], ["pamhc2foodextended:grapesodaitem", 8, 10], ["pamhc2foodextended:lemonlimesodaitem", 8, 10], ["pamhc2foodextended:orangesodaitem", 8, 10], 
+	["pamhc2foodextended:rootbeerfloatitem", 8, 10], ["pamhc2foodextended:rootbeersodaitem", 8, 10], ["pamhc2foodextended:strawberrysodaitem", 8, 10], ["pamhc2foodextended:carrotjuiceitem", 8, 13], 
+	["pamhc2foodextended:chocolatemilkitem", 8, 10], ["pamhc2foodextended:applecideritem", 8, 13], ["pamhc2foodextended:chaiteaitem", 10, 14], ["pamhc2foodextended:chocolatemilkshakeitem", 6, 8], 
+	["pamhc2foodextended:coffeeconlecheitem", 8, 15], ["pamhc2foodextended:dandelionteaitem", 10, 14], ["pamhc2foodextended:earlgreyteaitem", 10, 14], ["pamhc2foodextended:eggnogitem", 8, 8], 
+	["pamhc2foodextended:espressoitem", 6, 4], ["pamhc2foodextended:greenteaitem", 10, 14], ["pamhc2foodextended:lemonaiditem", 8, 10], ["pamhc2foodextended:pinacoladaitem", 8, 10], 
+	["pamhc2foodextended:pumpkinspicelatteitem", 6, 11], ["pamhc2foodextended:rosepetalteaitem", 10, 14], ["pamhc2foodextended:sundayhighteaitem", 10, 14], ["pamhc2foodextended:sweetteaitem", 10, 14], 
+	["pamhc2foodextended:hazelnutcoffeeitem", 10, 13], ["pamhc2foodextended:blackberryjuiceitem", 8, 13], ["pamhc2foodextended:blueberryjuiceitem", 8, 13], ["pamhc2foodextended:cactusfruitjuiceitem", 8, 13], 
+	["pamhc2foodextended:candleberryjuiceitem", 8, 13], ["pamhc2foodextended:cranberryjuiceitem", 8, 13], ["pamhc2foodextended:elderberryjuiceitem", 8, 13], ["pamhc2foodextended:huckleberryjuiceitem", 8, 13], 
+	["pamhc2foodextended:juniperberryjuiceitem", 8, 13], ["pamhc2foodextended:mulberryjuiceitem", 8, 13], ["pamhc2foodextended:raspberryjuiceitem", 8, 13], ["pamhc2foodextended:strawberryjuiceitem", 8, 13], 
+	["pamhc2foodextended:cantaloupejuiceitem", 8, 13], ["pamhc2foodextended:grapejuiceitem", 8, 13], ["pamhc2foodextended:greengrapejuiceitem", 8, 13], ["pamhc2foodextended:kiwijuiceitem", 8, 13], 
+	["pamhc2foodextended:pineapplejuiceitem", 8, 13], ["pamhc2foodextended:cherryjuiceitem", 8, 13], ["pamhc2foodextended:orangejuiceitem", 8, 13], ["pamhc2foodextended:peachjuiceitem", 8, 13], 
+	["pamhc2foodextended:pearjuiceitem", 8, 13], ["pamhc2foodextended:plumjuiceitem", 8, 13], ["pamhc2foodextended:pawpawjuiceitem", 8, 13], ["pamhc2foodextended:soursopjuiceitem", 8, 13], 
+	["pamhc2foodextended:apricotjuiceitem", 8, 13], ["pamhc2foodextended:bananajuiceitem", 8, 13], ["pamhc2foodextended:datejuiceitem", 8, 13], ["pamhc2foodextended:dragonfruitjuiceitem", 8, 13], 
+	["pamhc2foodextended:figjuiceitem", 8, 13], ["pamhc2foodextended:grapefruitjuiceitem", 8, 13], ["pamhc2foodextended:mangojuiceitem", 8, 13], ["pamhc2foodextended:papayajuiceitem", 8, 13], 
+	["pamhc2foodextended:persimmonjuiceitem", 8, 13], ["pamhc2foodextended:pomegranatejuiceitem", 8, 13], ["pamhc2foodextended:starfruitjuiceitem", 8, 13], ["pamhc2foodextended:breadfruitjuiceitem", 8, 13], 
+	["pamhc2foodextended:jackfruitjuiceitem", 8, 13], ["pamhc2foodextended:guavajuiceitem", 8, 13], ["pamhc2foodextended:lycheejuiceitem", 8, 13], ["pamhc2foodextended:passionfruitjuiceitem", 8, 13], 
+	["pamhc2foodextended:rambutanjuiceitem", 8, 13], ["pamhc2foodextended:tamarindjuiceitem", 8, 13], ["pamhc2foodextended:gooseberryjuiceitem", 8, 13], ["pamhc2foodextended:durianjuiceitem", 8, 13], 
+	["pamhc2foodextended:lemonjuiceitem", 8, 13], ["pamhc2foodextended:limejuiceitem", 8, 13], ["pamhc2foodextended:blackberrysmoothieitem", 8, 8], ["pamhc2foodextended:blueberrysmoothieitem", 8, 8], 
+	["pamhc2foodextended:cactusfruitsmoothieitem", 8, 8], ["pamhc2foodextended:candleberrysmoothieitem", 8, 8], ["pamhc2foodextended:cranberrysmoothieitem", 8, 8], ["pamhc2foodextended:elderberrysmoothieitem", 8, 8], 
+	["pamhc2foodextended:huckleberrysmoothieitem", 8, 8], ["pamhc2foodextended:juniperberrysmoothieitem", 8, 8], ["pamhc2foodextended:mulberrysmoothieitem", 8, 8], ["pamhc2foodextended:raspberrysmoothieitem", 8, 8], 
+	["pamhc2foodextended:strawberrysmoothieitem", 8, 8], ["pamhc2foodextended:cantaloupesmoothieitem", 8, 8], ["pamhc2foodextended:grapesmoothieitem", 8, 8], ["pamhc2foodextended:greengrapesmoothieitem", 8, 8], 
+	["pamhc2foodextended:kiwismoothieitem", 8, 8], ["pamhc2foodextended:pineapplesmoothieitem", 8, 8], ["pamhc2foodextended:cherrysmoothieitem", 8, 8], ["pamhc2foodextended:orangesmoothieitem", 8, 8], 
+	["pamhc2foodextended:peachsmoothieitem", 8, 8], ["pamhc2foodextended:pearsmoothieitem", 8, 8], ["pamhc2foodextended:plumsmoothieitem", 8, 8], ["pamhc2foodextended:pawpawsmoothieitem", 8, 8], 
+	["pamhc2foodextended:soursopsmoothieitem", 8, 8], ["pamhc2foodextended:apricotsmoothieitem", 8, 8], ["pamhc2foodextended:bananasmoothieitem", 8, 8], ["pamhc2foodextended:datesmoothieitem", 8, 8], 
+	["pamhc2foodextended:dragonfruitsmoothieitem", 8, 8], ["pamhc2foodextended:figsmoothieitem", 8, 8], ["pamhc2foodextended:grapefruitsmoothieitem", 8, 8], ["pamhc2foodextended:mangosmoothieitem", 8, 8], 
+	["pamhc2foodextended:papayasmoothieitem", 8, 8], ["pamhc2foodextended:persimmonsmoothieitem", 8, 8], ["pamhc2foodextended:pomegranatesmoothieitem", 8, 8], ["pamhc2foodextended:starfruitsmoothieitem", 8, 8], 
+	["pamhc2foodextended:breadfruitsmoothieitem", 8, 8], ["pamhc2foodextended:jackfruitsmoothieitem", 8, 8], ["pamhc2foodextended:guavasmoothieitem", 8, 8], ["pamhc2foodextended:lycheesmoothieitem", 8, 8], 
+	["pamhc2foodextended:passionfruitsmoothieitem", 8, 8], ["pamhc2foodextended:rambutansmoothieitem", 8, 8], ["pamhc2foodextended:tamarindsmoothieitem", 8, 8], ["pamhc2foodextended:gooseberrysmoothieitem", 8, 8], 
+	["pamhc2foodextended:duriansmoothieitem", 8, 8], ["pamhc2foodextended:lemonsmoothieitem", 8, 8], ["pamhc2foodextended:limesmoothieitem", 8, 8],
+	
+	
+	
+	["thirst:terracotta_water_bowl", 4, 5], 
+	
+	["farmersrespite:green_tea", 10, 14], ["farmersrespite:yellow_tea", 10, 14], ["farmersrespite:black_tea", 10, 14], ["farmersrespite:rose_hip_tea", 12, 22], ["farmersrespite:dandelion_tea", 12, 22], 
+	["farmersrespite:coffee", 6, 11], 
+	
+	["create:builders_tea", 12, 22], 
+	
+	["farmersdelight:apple_cider", 8, 13], ["farmersdelight:melon_juice", 8, 13], 
+	
+	["brewinandchewin:beer", 10, 14], ["brewinandchewin:vodka", 10, 14], ["brewinandchewin:rice_wine", 10, 14], ["brewinandchewin:mead", 10, 14], ["brewinandchewin:egg_grog", 10, 14], 
+	["brewinandchewin:glittering_grenadine", 10, 14], ["brewinandchewin:bloody_mary", 12, 22], ["brewinandchewin:salty_folly", 12, 22], ["brewinandchewin:pale_jane", 12, 22], ["brewinandchewin:saccharine_rum", 12, 22], 
+	["brewinandchewin:strongroot_ale", 12, 22], ["brewinandchewin:dread_nog", 12, 22], ["brewinandchewin:kombucha", 14, 22], ["brewinandchewin:red_rum", 14, 22], ["brewinandchewin:steel_toe_stout", 14, 22], 
+	
+	["collectorsreap:pink_limeade", 8, 10], ["collectorsreap:berry_limeade", 8, 13], ["collectorsreap:limeade", 8, 13], ["collectorsreap:pink_limeade", 8, 13], ["collectorsreap:pomegranate_black_tea", 10, 14], 
+	["collectorsreap:lime_green_tea", 10, 14], 
+	
+	["toughasnails:dirty_water_bottle", 6, 8], ["toughasnails:purified_water_bottle", 8, 10], ["toughasnails:dirty_water_canteen", 8, 10], ["toughasnails:water_canteen", 9, 11], 
+	["toughasnails:purified_water_canteen", 10, 12], ["toughasnails:melon_juice", 8, 13], ["toughasnails:apple_juice", 8, 13], ["toughasnails:cactus_juice", 8, 13], ["toughasnails:carrot_juice", 8, 13], 
+	["toughasnails:glow_berry_juice", 8, 13], ["toughasnails:chorus_fruit_juice", 8, 13], ["toughasnails:suspicious_water_cup", 8, 13], ["toughasnails:pumpkin_juice", 8, 13], ["toughasnails:sweet_berry_juice", 8, 13]]
+
+[Foods]
+	#Defines items that will recover thirst when eaten
+	#Format: [["item-id-1", hydration-amount, quenching-amount], ["item-id-2", hydration-amount, quenching-amount], ...etc]
+	foods = [["minecraft:apple", 2, 3], ["minecraft:golden_apple", 2, 3], ["minecraft:enchanted_golden_apple", 2, 3], ["minecraft:melon_slice", 4, 5], ["minecraft:carrot", 1, 2], ["minecraft:mushroom_stew", 2, 3], 
+	["minecraft:rabbit_stew", 2, 3], ["minecraft:beetroot_soup", 5, 7], ["minecraft:beetroot", 1, 2], ["minecraft:sweet_berries", 1, 2], ["minecraft:glow_berries", 1, 2], ["minecraft:golden_carrot", 1, 2], 
+	
+	["pamhc2foodcore:applesauceitem", 2, 3], ["pamhc2foodcore:cookiesandmilkitem", 6, 5], ["pamhc2foodcore:potatosoupitem", 4, 5], 
+	["pamhc2foodcore:carrotsoupitem", 4, 5], ["pamhc2foodcore:pumpkinsoupitem", 4, 5], ["pamhc2foodcore:stockitem", 4, 5], ["pamhc2foodcore:stewitem", 4, 5],
+	
+	["pamhc2crops:bellpepperitem", 2, 3], ["pamhc2crops:blackberryitem", 1, 2], ["pamhc2crops:blueberryitem", 1, 2], ["pamhc2crops:cactusfruititem", 2, 3], ["pamhc2crops:candleberryitem", 1, 2], 
+	["pamhc2crops:cantaloupeitem", 2, 3], ["pamhc2crops:cranberryitem", 1, 2], ["pamhc2crops:cucumberitem", 2, 3], ["pamhc2crops:elderberryitem", 1, 2], ["pamhc2crops:grapeitem", 2, 3], ["pamhc2crops:greengrapeitem", 2, 3], 
+	["pamhc2crops:huckleberryitem", 1, 2], ["pamhc2crops:juniperberryitem", 1, 2], ["pamhc2crops:kiwiitem", 2, 3], ["pamhc2crops:mulberryitem", 1, 2], ["pamhc2crops:raspberryitem", 1, 2], ["pamhc2crops:strawberryitem", 1, 2], 
+	["pamhc2crops:tomatilloitem", 2, 3], ["pamhc2crops:tomatoitem", 2, 3], ["pamhc2crops:barrelcactusitem", 2, 3], ["pamhc2crops:nopalesitem", 2, 3], ["pamhc2crops:wolfberry", 1, 2], ["pamhc2crops:pineapple", 2, 3], 
+	["pamhc2crops:cloudberry", 1, 2], ["pamhc2crops:guarana", 1, 2], ["pamhc2crops:cabbage", 2, 3], ["pamhc2crops:lettuce", 2, 3], ["pamhc2crops:corn", 2, 3],
+	
+	["pamhc2foodextended:fiestacornsaladitem", 4, 5], ["pamhc2foodextended:chickennoodlesoupitem", 4, 5], ["pamhc2foodextended:cornflakesitem", 4, 5], ["pamhc2foodextended:cranberrysauceitem", 4, 5], 
+	["pamhc2foodextended:crispyricepuffcerealitem", 4, 5], ["pamhc2foodextended:berryvinaigrettesaladitem", 6, 8], ["pamhc2foodextended:ceasarsaladitem", 4, 5], ["pamhc2foodextended:chickencurryitem", 4, 5], 
+	["pamhc2foodextended:chickengumboitem", 4, 5], ["pamhc2foodextended:chocovoxelsitem", 4, 5], ["pamhc2foodextended:citrussaladitem", 4, 5], ["pamhc2foodextended:creamedbroccolisoupitem", 4, 5], 
+	["pamhc2foodextended:creamofavocadosoupitem", 4, 5], ["pamhc2foodextended:cucumbersandwichitem", 4, 5], ["pamhc2foodextended:curryitem", 4, 5], ["pamhc2foodextended:dhalitem", 4, 5], 
+	["pamhc2foodextended:gardensoupitem", 4, 5], ["pamhc2foodextended:guisoitem", 4, 5], ["pamhc2foodextended:hotandsoursoupitem", 4, 5], ["pamhc2foodextended:lambbarleysoupitem", 4, 5], 
+	["pamhc2foodextended:leekbaconsoupitem", 4, 5], ["pamhc2foodextended:mixedflowersaladitem", 4, 5], ["pamhc2foodextended:mixedsaladitem", 4, 5], ["pamhc2foodextended:nopalessaladitem", 4, 5], 
+	["pamhc2foodextended:oldworldveggiesoupitem", 4, 5], ["pamhc2foodextended:peaandhamsoupitem", 4, 5], ["pamhc2foodextended:phoitem", 4, 5], ["pamhc2foodextended:pizzasoupitem", 4, 5], 
+	["pamhc2foodextended:potatoleeksoupitem", 4, 5], ["pamhc2foodextended:ramenitem", 4, 5], ["pamhc2foodextended:seedsoupitem", 4, 5], ["pamhc2foodextended:spicygreensitem", 4, 5], ["pamhc2foodextended:splitpeasoupitem", 4, 5], 
+	["pamhc2foodextended:springsaladitem", 4, 5], ["pamhc2foodextended:sunflowerbroccolisaladitem", 4, 5], ["pamhc2foodextended:succotashitem", 4, 5], ["pamhc2foodextended:threebeansaladitem", 4, 5], 
+	["pamhc2foodextended:tomatosoupitem", 4, 5], ["pamhc2foodextended:vegetablesoupitem", 4, 5], ["pamhc2foodextended:wontonsoupitem", 4, 5], ["pamhc2foodextended:creamofchickenitem", 4, 5], 
+	["pamhc2foodextended:creamofmushroomitem", 4, 5], ["pamhc2foodextended:wontonsoupitem", 4, 5],
+	
+	["pamhc2trees:cherryitem", 2, 3], ["pamhc2trees:gooseberryitem", 1, 2], ["pamhc2trees:lemonitem", 4, 5], ["pamhc2trees:orangeitem", 4, 5], ["pamhc2trees:peachitem", 2, 3], ["pamhc2trees:pearitem", 2, 3], 
+	["pamhc2trees:plumitem", 2, 3], ["pamhc2trees:pawpawitem", 2, 3], ["pamhc2trees:soursopitem", 2, 3], ["pamhc2trees:apricotitem", 2, 3], ["pamhc2trees:coconutitem", 4, 5], ["pamhc2trees:dateitem", 2, 3], 
+	["pamhc2trees:dragonfruititem", 2, 3], ["pamhc2trees:durianitem", 2, 3], ["pamhc2trees:figitem", 2, 3], ["pamhc2trees:grapefruititem", 4, 5], ["pamhc2trees:limeitem", 4, 5], ["pamhc2trees:mangoitem", 2, 3], 
+	["pamhc2trees:mangoitem", 2, 3], ["pamhc2trees:papayaitem", 2, 3], ["pamhc2trees:papayaitem", 2, 3], ["pamhc2trees:persimonitem", 2, 3], ["pamhc2trees:pomegranateitem", 2, 3], ["pamhc2trees:starfruititem", 2, 3], 
+	["pamhc2trees:guavaitem", 2, 3], ["pamhc2trees:lycheeitem", 2, 3],  ["pamhc2trees:passionfruititem", 2, 3], ["pamhc2trees:rambutanitem", 2, 3],
+	
+	["farmersdelight:pumpkin_slice", 2, 1], ["farmersdelight:cabbage_leaf", 1, 2], ["farmersdelight:melon_popsicle", 7, 9], ["farmersdelight:fruit_salad", 6, 8], ["farmersdelight:tomato_sauce", 4, 5], 
+	["farmersdelight:mixed_salad", 4, 5], ["farmersdelight:beef_stew", 4, 5], ["farmersdelight:chicken_soup", 4, 5], ["farmersdelight:vegetable_soup", 4, 5], ["farmersdelight:fish_stew", 4, 5], 
+	["farmersdelight:pumpkin_soup", 4, 5], ["farmersdelight:baked_cod_stew", 4, 5], ["farmersdelight:noodle_soup", 4, 5],
+	
+	["collectorsreap:lime_slice", 1, 2], ["collectorsreap:lime", 2, 3], ["collectorsreap:portobello_rice_soup", 6, 8], ["collectorsreap:lime_popsicle", 7, 9]]
+
+[Blacklist]
+	#A mod may have added thirst compatibility to an item via code. If you want to edit the thirst values
+	#of that item, add an entry in one of the first two lists. If instead you want to remove thirst support for that item, add an entry in this list
+	#Format: ["examplemod:example_item_1", "examplemod:example_item_2"]
+	itemsBlacklist = []
+
