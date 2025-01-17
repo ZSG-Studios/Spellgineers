@@ -1,0 +1,6 @@
+[submodule "Spellgineers-Mods"]
+	path = Spellgineers-Mods
+	url = https://github.com/ZSG-Studios/Spellgineers-Mods.git
+[submodule "mods"]
+	path = mods
+	url = https://github.com/ZSG-Studios/Spellgineers-Mods.git
