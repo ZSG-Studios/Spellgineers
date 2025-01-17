@@ -1,6 +1,0 @@
-#3D6 minecraft:cold_ocean
-#735 biomesoplenty:coniferous_forest
-#67F biomesoplenty:fir_clearing
-#005 biomesoplenty:gravel_beach
-#5FF minecraft:river
-#51A minecraft:stony_shore

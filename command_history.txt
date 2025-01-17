@@ -1,4 +1,0 @@
-/heal
-/thirst query
-/heal
-/defaultoptions saveAll
