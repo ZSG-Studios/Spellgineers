@@ -11,5 +11,18 @@
   "c:dusts/niter": "null",
   "c:ingots/brass": "null",
   "c:rubbers": "null",
-  "c:gems/peridot": "null"
+  "c:gems/peridot": "null",
+  "c:ingots/tin": "modern_industrialization:tin_ingot",
+  "c:ingots/bronze": "silentgear:bronze_ingot",
+  "c:ingots/electrum": "modern_industrialization:electrum_ingot",
+  "c:ingots/silver": "occultism:silver_ingot",
+  "c:ingots/steel": "modern_industrialization:steel_ingot",
+  "c:ingots/platinum": "modern_industrialization:platinum_ingot",
+  "c:ingots/lead": "modern_industrialization:lead_ingot",
+  "c:ingots/uranium": "modern_industrialization:uranium_ingot",
+  "c:ingots/aluminum": "modern_industrialization:aluminum_ingot",
+  "c:ingots/iridium": "modern_industrialization:iridium_ingot",
+  "c:ingots/invar": "modern_industrialization:invar_ingot",
+  "c:dusts/sulfur": "modern_industrialization:sulfur_dust",
+  "c:ingots/nickel": "modern_industrialization:nickel_ingot"
 }

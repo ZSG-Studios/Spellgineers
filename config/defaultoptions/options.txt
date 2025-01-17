@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Sparkles_1.21.x_v1.1.0.zip","file/Pixelated_v1.3.3_EnhancedVisuals(nox_cgt).zip"]
+resourcePacks:["vanilla","mod_resources","file/Sparkles_1.21.x_v1.1.0.zip","file/Pixelated_v1.3.3_EnhancedVisuals(nox_cgt).zip","fabric"]
 incompatibleResourcePacks:["file/Pixelated_v1.3.3_EnhancedVisuals(nox_cgt).zip"]
 lastServer:
 lang:en_us

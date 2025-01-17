@@ -1,18 +1,19 @@
-[11:49:07] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[11:49:07] [INIT] Loaded plugins:
-[11:49:07] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[11:49:07] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
-[11:49:07] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[11:49:07] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[11:49:07] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[11:49:07] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[11:49:07] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[11:49:07] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
-[11:49:07] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[11:49:07] [INIT] - net.swedz.mi_tweaks.compat.kubejs.MITweaksKJSPlugin
-[11:49:07] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
-[11:49:07] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[11:49:07] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
-[11:49:07] [INFO] Loaded script client_scripts:main.js in 0.0 s
-[11:49:07] [INFO] Loaded 1/1 KubeJS client scripts in 0.019 s with 0 errors and 0 warnings
-[11:49:13] [INFO] Client resource reload complete!
+[14:26:42] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[14:26:42] [INIT] Loaded plugins:
+[14:26:42] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[14:26:42] [INIT] - dev.latvian.mods.kubejs.client.BuiltinKubeJSClientPlugin
+[14:26:42] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[14:26:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[14:26:42] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[14:26:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[14:26:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[14:26:42] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[14:26:42] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[14:26:42] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[14:26:42] [INIT] - net.swedz.mi_tweaks.compat.kubejs.MITweaksKJSPlugin
+[14:26:42] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[14:26:42] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[14:26:42] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[14:26:42] [INFO] Loaded script client_scripts:main.js in 0.001 s
+[14:26:42] [INFO] Loaded 1/1 KubeJS client scripts in 0.04 s with 0 errors and 0 warnings
+[14:26:48] [INFO] Client resource reload complete!

@@ -4,7 +4,9 @@
     "item:occultism:miner_debug_unspecialized",
     "item:ars_nouveau:creative_spell_book"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "minecraft:pumpkin_seeds"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},
