@@ -13,7 +13,7 @@
 	rare_drop_rate = 10.0
 	epic_drop_rate = 4.0
 	legendary_drop_rate = 1.0
-	drop_chance_overall = 80.0
+	drop_chance_overall = 75.0
 
 ["Events Config"]
 	lucky_list = ["summon minecraft:warden ~ ~ ~", "/place structure minecraft:ancient_city", "weather thunder", "tp @p ~ ~-40 ~", "/effect give @p minecraft:blindness 10", "summon minecraft:tnt ~ ~ ~ {Fuse:40}", "summon minecraft:wither ~ ~ ~", "summon minecraft:zombie ~ ~ ~ {IsBaby:1}", "summon minecraft:firework_rocket ~ ~ ~ {Life:20,LifeTime:40}", "xp add @p 50", "xp add @p 100", "xp add @p 500", "place structure minecraft:village_plains", "place structure minecraft:village_desert  ", "place structure minecraft:ruined_portal  ", "place structure minecraft:pillager_outpost  ", "place structure minecraft:jungle_temple  "]
