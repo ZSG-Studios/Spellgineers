@@ -9,6 +9,7 @@
     "explosion": {
       "enabled": true,
       "opacity": 1.0,
+      "beepSound": "enhancedvisuals:ringing",
       "dust": {
         "disabled": false,
         "opacity": 1.0,

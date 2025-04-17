@@ -1,3 +1,6 @@
+["Global Settings"]
+	enable = true
+
 ["Attribute 1"]
 	enable = true
 	display_name = "§fHealth : §6"
@@ -63,18 +66,18 @@
 	display_modifer = 1.0
 
 ["Attribute 9"]
-	enable = true
-	display_name = "§fSpell Power : "
-	attribute_namespace = "irons_spellbooks"
-	attribute_name = "spell_power"
+	enable = false
+	display_name = "§fHealth : "
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
 	#changes how to the attribute value displays when you hover (value * modifer)
 	display_modifer = 1.0
 
 ["Attribute 10"]
-	enable = true
-	display_name = "§fMagic Resist : "
-	attribute_namespace = "irons_spellbooks"
-	attribute_name = "spell_resist"
+	enable = false
+	display_name = "§fHealth : "
+	attribute_namespace = "minecraft"
+	attribute_name = "generic.max_health"
 	#changes how to the attribute value displays when you hover (value * modifer)
 	display_modifer = 1.0
 

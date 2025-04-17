@@ -93,15 +93,19 @@
     "overclock": true,
     "pipe": true
   },
-  "lootr": {
-    "info": true
-  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
   },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
   "apothic_enchanting": {
     "ench": true
+  },
+  "balm": {
+    "jade": true
   },
   "ae2": {
     "part_icon": true,
@@ -120,6 +124,9 @@
   },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,

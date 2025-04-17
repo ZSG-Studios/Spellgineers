@@ -1,26 +1,6 @@
-[Overworld]
-	#Choose a value between [0-100]
-	better_drop_rate = 20.0
-	#Choose a value between [0-100]
-	greater_drop_rate = 1.0
-	#Choose a value between [0-100]
-	ow_overall_rate = 100.0
-
-[Nether]
-	#Choose a value between [0-100]
-	better_drop_rate = 60.0
-	#Choose a value between [0-100]
-	greater_drop_rate = 10.0
-	#Choose a value between [0-100]
-	nether_overall_rate = 100.0
-
-[End]
-	#Choose a value between [0-100]
-	better_drop_rate = 70.0
-	#Choose a value between [0-100]
-	greater_drop_rate = 35.0
-	#Choose a value between [0-100]
-	end_overall_rate = 100.0
+[Dimensions]
+	#This is used to calculate the xp you get when you kill a mob in that dimension
+	dimensions_drop_rates = ["minecraft:overworld=1", "minecraft:the_nether=1.5", "minecraft:the_end=2"]
 
 ["Bosses Drop Rates"]
 	#Max drop rate of orbs of leveling from bosses
